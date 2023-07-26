@@ -3,6 +3,9 @@ payload:
   - DOMAIN-SUFFIX,bitcointalk.org
   - DOMAIN-SUFFIX,defillama.com
 
+  # Project
+  - DOMAIN-SUFFIX,aave.com
+
   # Wallet
   - DOMAIN-SUFFIX,metamask.io
 
