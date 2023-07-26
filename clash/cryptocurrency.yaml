@@ -5,6 +5,7 @@ payload:
 
   # Project
   - DOMAIN-SUFFIX,aave.com
+  - DOMAIN-SUFFIX,optimism.io
 
   # Wallet
   - DOMAIN-SUFFIX,metamask.io
