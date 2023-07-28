@@ -2,6 +2,7 @@ payload:
   # Forum
   - DOMAIN-SUFFIX,bitcointalk.org
   - DOMAIN-SUFFIX,defillama.com
+  - DOMAIN-SUFFIX,defidaonews.com
 
   # Project
   - DOMAIN-SUFFIX,aave.com
