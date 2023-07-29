@@ -10,6 +10,7 @@ payload:
 
   # Wallet
   - DOMAIN-SUFFIX,metamask.io
+  - DOMAIN-SUFFIX,moonpay.com
 
   # Developer
   - DOMAIN-SUFFIX,infura.io
