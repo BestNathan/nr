@@ -11,6 +11,7 @@ payload:
   - DOMAIN-SUFFIX,optimism.io
   - DOMAIN-SUFFIX,dydx.exchange
   - DOMAIN-SUFFIX,mux.network
+  - DOMAIN-SUFFIX,curve.fi
 
   # Wallet
   - DOMAIN-SUFFIX,metamask.io
