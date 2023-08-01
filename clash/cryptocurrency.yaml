@@ -4,6 +4,7 @@ payload:
   - DOMAIN-SUFFIX,defillama.com
   - DOMAIN-SUFFIX,defidaonews.com
   - DOMAIN-SUFFIX,tokenterminal.com
+  - DOMAIN-SUFFIX,coingecko.com
 
   # Project
   - DOMAIN-SUFFIX,aave.com
