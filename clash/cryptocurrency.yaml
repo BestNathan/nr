@@ -8,6 +8,7 @@ payload:
   - DOMAIN-SUFFIX,aave.com
   - DOMAIN-SUFFIX,optimism.io
   - DOMAIN-SUFFIX,dydx.exchange
+  - DOMAIN-SUFFIX,mux.network
 
   # Wallet
   - DOMAIN-SUFFIX,metamask.io
