@@ -3,6 +3,7 @@ payload:
   - DOMAIN-SUFFIX,bitcointalk.org
   - DOMAIN-SUFFIX,defillama.com
   - DOMAIN-SUFFIX,defidaonews.com
+  - DOMAIN-SUFFIX,tokenterminal.com
 
   # Project
   - DOMAIN-SUFFIX,aave.com
