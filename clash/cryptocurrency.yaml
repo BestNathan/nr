@@ -12,6 +12,7 @@ payload:
   - DOMAIN-SUFFIX,dydx.exchange
   - DOMAIN-SUFFIX,mux.network
   - DOMAIN-SUFFIX,curve.fi
+  - DOMAIN-SUFFIX,uniswap.org
 
   # Wallet
   - DOMAIN-SUFFIX,metamask.io
