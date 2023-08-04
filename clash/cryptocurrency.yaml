@@ -13,6 +13,7 @@ payload:
   - DOMAIN-SUFFIX,mux.network
   - DOMAIN-SUFFIX,curve.fi
   - DOMAIN-SUFFIX,uniswap.org
+  - DOMAIN-SUFFIX,compound.finance
 
   # Wallet
   - DOMAIN-SUFFIX,metamask.io
