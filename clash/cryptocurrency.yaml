@@ -14,6 +14,7 @@ payload:
   - DOMAIN-SUFFIX,curve.fi
   - DOMAIN-SUFFIX,uniswap.org
   - DOMAIN-SUFFIX,compound.finance
+  - DOMAIN-SUFFIX,makerdao.com
 
   # Wallet
   - DOMAIN-SUFFIX,metamask.io
