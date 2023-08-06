@@ -16,6 +16,7 @@ payload:
   - DOMAIN-SUFFIX,compound.finance
   - DOMAIN-SUFFIX,makerdao.com
   - DOMAIN-SUFFIX,sparkprotocol.io
+  - DOMAIN-SUFFIX,oasis.app
 
   # Wallet
   - DOMAIN-SUFFIX,metamask.io
