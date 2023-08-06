@@ -15,6 +15,7 @@ payload:
   - DOMAIN-SUFFIX,uniswap.org
   - DOMAIN-SUFFIX,compound.finance
   - DOMAIN-SUFFIX,makerdao.com
+  - DOMAIN-SUFFIX,sparkprotocol.io
 
   # Wallet
   - DOMAIN-SUFFIX,metamask.io
