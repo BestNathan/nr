@@ -5,6 +5,7 @@ payload:
   - DOMAIN-SUFFIX,defidaonews.com
   - DOMAIN-SUFFIX,tokenterminal.com
   - DOMAIN-SUFFIX,coingecko.com
+  - DOMAIN-SUFFIX,mirror.xyz
 
   # Project
   - DOMAIN-SUFFIX,aave.com
