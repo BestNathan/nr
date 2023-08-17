@@ -19,6 +19,7 @@ payload:
   - DOMAIN-SUFFIX,sparkprotocol.io
   - DOMAIN-SUFFIX,oasis.app
   - DOMAIN-SUFFIX,lyra.finance
+  - DOMAIN-SUFFIX,pancakeswap.finance
 
   # Wallet
   - DOMAIN-SUFFIX,metamask.io
