@@ -27,6 +27,7 @@ payload:
 
   # Developer
   - DOMAIN-SUFFIX,infura.io
+  - DOMAIN-SUFFIX,ipfs.io
 
   # Exchange
   - DOMAIN-SUFFIX,aex.com
