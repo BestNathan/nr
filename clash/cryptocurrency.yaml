@@ -28,6 +28,7 @@ payload:
   # Developer
   - DOMAIN-SUFFIX,infura.io
   - DOMAIN-SUFFIX,ipfs.io
+  - DOMAIN-SUFFIX,alchemy.com
 
   # Exchange
   - DOMAIN-SUFFIX,aex.com
