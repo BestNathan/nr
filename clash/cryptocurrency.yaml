@@ -24,6 +24,7 @@ payload:
   # Wallet
   - DOMAIN-SUFFIX,metamask.io
   - DOMAIN-SUFFIX,moonpay.com
+  - DOMAIN-SUFFIX,sardine.ai
 
   # Developer
   - DOMAIN-SUFFIX,infura.io
