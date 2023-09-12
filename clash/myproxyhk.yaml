@@ -6,3 +6,5 @@ payload:
   - DOMAIN-SUFFIX,github.com
   - DOMAIN,mirror.xyz
   - DOMAIN-SUFFIX,tianwangcha.org
+  - DOMAIN-SUFFIX,payoneer.com
+  - DOMAIN-SUFFIX,pyypl.com
