@@ -21,6 +21,7 @@ payload:
   - DOMAIN-SUFFIX,lyra.finance
   - DOMAIN-SUFFIX,pancakeswap.finance
   - DOMAIN-SUFFIX,friend.tech
+  - DOMAIN-KEYWORD,worldcoin
 
   # Wallet
   - DOMAIN-SUFFIX,metamask.io
