@@ -8,3 +8,5 @@ payload:
   - DOMAIN-SUFFIX,payoneer.com
   - DOMAIN-SUFFIX,pyypl.com
   - DOMAIN-SUFFIX,pyypl.io
+  - DOMAIN-SUFFIX,discord.gg
+  - DOMAIN-SUFFIX,discord.com
