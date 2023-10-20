@@ -1,6 +1,7 @@
 payload:
   - DOMAIN-SUFFIX,cs.deals
   - DOMAIN-SUFFIX,ipfs.io
+  - DOMAIN-SUFFIX,ipfs.tech
   - DOMAIN-SUFFIX,exchangerate.host
   - DOMAIN-KEYWORD,natural8
   - DOMAIN-SUFFIX,github.com
