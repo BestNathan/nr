@@ -1,10 +1,14 @@
 payload:
-  - DOMAIN-SUFFIX,cs.deals
+# developer
+  - DOMAIN-SUFFIX,registry.k8s.io
+  - DOMAIN-SUFFIX,pkg.dev
+  - DOMAIN-SUFFIX,github.com
   - DOMAIN-SUFFIX,ipfs.io
   - DOMAIN-SUFFIX,ipfs.tech
+# other
+  - DOMAIN-SUFFIX,cs.deals
   - DOMAIN-SUFFIX,exchangerate.host
   - DOMAIN-KEYWORD,natural8
-  - DOMAIN-SUFFIX,github.com
   - DOMAIN,mirror.xyz
   - DOMAIN-SUFFIX,tianwangcha.org
   - DOMAIN-SUFFIX,payoneer.com
