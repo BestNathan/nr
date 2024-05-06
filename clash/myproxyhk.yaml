@@ -1,4 +1,6 @@
 payload:
+# tools
+  - DOMAIN-SUFFIX,v2rayse.com
 # developer
   - DOMAIN-SUFFIX,registry.k8s.io
   - DOMAIN-SUFFIX,pkg.dev
