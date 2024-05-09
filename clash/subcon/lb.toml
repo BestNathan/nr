@@ -1,0 +1,21 @@
+[ruleset]
+# Enable generating rules with rulesets
+enabled = true
+
+# Overwrite the existing rules in rule_base
+overwrite_original_rules = true
+
+# Perform a ruleset update on request
+update_ruleset_on_request = true
+
+[[rulesets]]
+group = "负载均衡"
+ruleset = "[]FINAL"
+
+[[custom_groups]]
+name = "负载均衡"
+type = "load-balance"
+rule = [".*"]
+interval = 1000000
+strategy = "round-robin"
+url = "http://www.gstatic.com/generate_204"
