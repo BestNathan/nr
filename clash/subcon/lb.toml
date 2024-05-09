@@ -1,11 +1,6 @@
-[ruleset]
-# Enable generating rules with rulesets
-enabled = true
-
-# Overwrite the existing rules in rule_base
+[custom]
 overwrite_original_rules = true
 
-# Perform a ruleset update on request
 update_ruleset_on_request = true
 
 [[rulesets]]
