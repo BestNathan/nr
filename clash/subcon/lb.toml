@@ -2,7 +2,7 @@ version = 1
 [custom]
 overwrite_original_rules = true
 update_ruleset_on_request = true
-exclude_remarks = ["(到期|剩余流量|时间|官网|产品|重置剩余)"]
+exclude_remarks = ["(到期|订阅|电报|剩余|推荐|流量|时间|官网|产品|重置剩余)"]
 
 [[rulesets]]
 group = "负载均衡"
@@ -12,6 +12,4 @@ ruleset = "[]FINAL"
 name = "负载均衡"
 type = "load-balance"
 rule = [".*"]
-interval = 1000000
 strategy = "round-robin"
-url = "http://www.gstatic.com/generate_204"
