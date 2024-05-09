@@ -1,4 +1,6 @@
 [custom]
+
+[ruleset]
 overwrite_original_rules = true
 
 update_ruleset_on_request = true
