@@ -2,6 +2,7 @@ version = 1
 [custom]
 overwrite_original_rules = true
 update_ruleset_on_request = true
+clash_rule_base = "https://raw.githubusercontent.com/BestNathan/nr/master/clash/subcon/base/clash.tpl"
 exclude_remarks = ["(到期|订阅|电报|剩余|推荐|流量|时间|官网|产品|重置剩余)"]
 
 [[rulesets]]
