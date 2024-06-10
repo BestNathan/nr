@@ -1,4 +1,7 @@
 payload:
+# github
+  - DOMAIN-SUFFIX,github.com
+  - DOMAIN-SUFFIX,githubusercontent.com
 # airport
   - DOMAIN-SUFFIX,llgjc.com
   - DOMAIN-SUFFIX,jsjc.cfd
