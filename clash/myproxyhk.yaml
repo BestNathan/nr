@@ -13,6 +13,7 @@ payload:
   - DOMAIN-SUFFIX,pkg.dev
   - DOMAIN-SUFFIX,npmjs.com
   - DOMAIN-SUFFIX,docker.com
+  - DOMAIN-SUFFIX,docker.io
   - DOMAIN-SUFFIX,ipfs.io
   - DOMAIN-SUFFIX,ipfs.tech
 # other
