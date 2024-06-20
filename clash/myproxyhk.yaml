@@ -11,7 +11,7 @@ payload:
 # developer
   - DOMAIN-SUFFIX,registry.k8s.io
   - DOMAIN-SUFFIX,pkg.dev
-  - DOMAIN-SUFFIX,github.com
+  - DOMAIN-SUFFIX,npmjs.com
   - DOMAIN-SUFFIX,ipfs.io
   - DOMAIN-SUFFIX,ipfs.tech
 # other
