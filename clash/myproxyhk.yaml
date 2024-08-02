@@ -8,6 +8,7 @@ payload:
   - DOMAIN-SUFFIX,feiniaoyun11.life
 # tools
   - DOMAIN-SUFFIX,v2rayse.com
+  - DOMAIN-SUFFIX,nssurge.com
 # developer
   - DOMAIN-SUFFIX,registry.k8s.io
   - DOMAIN-SUFFIX,pkg.dev
