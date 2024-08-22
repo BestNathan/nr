@@ -1,0 +1,28 @@
+# github
+DOMAIN-SUFFIX,github.com
+DOMAIN-SUFFIX,githubusercontent.com
+# airport
+DOMAIN-SUFFIX,llgjc.com
+DOMAIN-SUFFIX,jsjc.cfd
+DOMAIN-SUFFIX,feiniaoyun11.life
+# tools
+DOMAIN-SUFFIX,v2rayse.com
+# developer
+DOMAIN-SUFFIX,registry.k8s.io
+DOMAIN-SUFFIX,pkg.dev
+DOMAIN-SUFFIX,npmjs.com
+DOMAIN-SUFFIX,docker.com
+DOMAIN-SUFFIX,docker.io
+DOMAIN-SUFFIX,ipfs.io
+DOMAIN-SUFFIX,ipfs.tech
+# other
+DOMAIN-SUFFIX,cs.deals
+DOMAIN-SUFFIX,exchangerate.host
+DOMAIN-KEYWORD,natural8
+DOMAIN,mirror.xyz
+DOMAIN-SUFFIX,tianwangcha.org
+DOMAIN-SUFFIX,payoneer.com
+DOMAIN-SUFFIX,pyypl.com
+DOMAIN-SUFFIX,pyypl.io
+DOMAIN-SUFFIX,discord.gg
+DOMAIN-SUFFIX,discord.com
