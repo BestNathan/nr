@@ -4,6 +4,7 @@ payload:
   - DOMAIN-SUFFIX,githubusercontent.com
 # airport
   - DOMAIN-SUFFIX,llgjc.com
+  - DOMAIN-SUFFIX,llgjc1.com
   - DOMAIN-SUFFIX,jsjc.cfd
   - DOMAIN-SUFFIX,feiniaoyun11.life
 # tools
