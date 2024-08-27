@@ -1,5 +1,6 @@
 payload:
 # github
+  - DOMAIN-SUFFIX,ghproxy.com
   - DOMAIN-SUFFIX,github.com
   - DOMAIN-SUFFIX,githubusercontent.com
 # airport
