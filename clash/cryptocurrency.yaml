@@ -35,6 +35,7 @@ payload:
 
   # Exchange
   - DOMAIN-SUFFIX,aex.com
+  - DOMAIN-SUFFIX,deribit.com
   # - DOMAIN-SUFFIX,bitget.com
   - DOMAIN-SUFFIX,bibox.com
   - DOMAIN-SUFFIX,bitfinex.com
