@@ -21,6 +21,7 @@ payload:
   - DOMAIN-SUFFIX,ipfs.io
   - DOMAIN-SUFFIX,ipfs.tech
 # other
+  - DOMAIN-SUFFIX,x.com
   - DOMAIN-SUFFIX,cs.deals
   - DOMAIN-SUFFIX,exchangerate.host
   - DOMAIN-KEYWORD,natural8
