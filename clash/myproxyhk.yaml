@@ -13,6 +13,7 @@ payload:
   - DOMAIN-SUFFIX,v2rayse.com
   - DOMAIN-SUFFIX,nssurge.com
 # developer
+  - DOMAIN-SUFFIX,react.dev
   - DOMAIN-SUFFIX,registry.k8s.io
   - DOMAIN-SUFFIX,pkg.dev
   - DOMAIN-SUFFIX,npmjs.com
