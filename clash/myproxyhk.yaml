@@ -1,4 +1,6 @@
 payload:
+# finance
+  - DOMAIN-SUFFIX,moomoo.com
 # github
   - DOMAIN-SUFFIX,ghproxy.com
   - DOMAIN-SUFFIX,github.com
