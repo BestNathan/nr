@@ -19,6 +19,8 @@ payload:
   - DOMAIN-SUFFIX,registry.k8s.io
   - DOMAIN-SUFFIX,pkg.dev
   - DOMAIN-SUFFIX,npmjs.com
+  - DOMAIN-SUFFIX,grafana.net
+  - DOMAIN-SUFFIX,grafana.com
   - DOMAIN-SUFFIX,docker.com
   - DOMAIN-SUFFIX,docker.io
   - DOMAIN-SUFFIX,ipfs.io
