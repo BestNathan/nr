@@ -26,6 +26,7 @@ payload:
   - DOMAIN-SUFFIX,ipfs.io
   - DOMAIN-SUFFIX,ipfs.tech
   - DOMAIN-SUFFIX,fastgpt.in
+  - DOMAIN-SUFFIX,localai.io
 # other
   - DOMAIN-SUFFIX,x.com
   - DOMAIN-SUFFIX,cs.deals
