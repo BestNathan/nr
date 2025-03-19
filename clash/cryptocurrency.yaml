@@ -22,6 +22,7 @@ payload:
   - DOMAIN-SUFFIX,pancakeswap.finance
   - DOMAIN-SUFFIX,friend.tech
   - DOMAIN-KEYWORD,worldcoin
+  - DOMAIN-SUFFIX,geckoterminal.com
 
   # Wallet
   - DOMAIN-SUFFIX,metamask.io
