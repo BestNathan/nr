@@ -2,3 +2,7 @@ payload:
   # Instagram
   - DOMAIN-SUFFIX,instagram.com
   - DOMAIN-SUFFIX,cdninstagram.com
+  # Pinterest
+  - DOMAIN-SUFFIX,pinterest.com
+  - DOMAIN-SUFFIX,pinimg.com
+  - DOMAIN-KEYWORD,pinterest
