@@ -18,6 +18,7 @@ DOMAIN-SUFFIX,bingapis.com
 # > Claude
 DOMAIN-SUFFIX,anthropic.com
 DOMAIN-SUFFIX,claude.ai
+DOMAIN-SUFFIX,Claude.com
 
 # > Bard
 DOMAIN,bard.google.com
